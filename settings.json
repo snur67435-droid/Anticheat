@@ -1,13 +1,13 @@
 {
-  "name": "AFK Bot",
+  "name": "Anticheat",
   "bot-account": {
-    "username": "Technoblade",
-    "password": "",
+    "username": "Anticheat",
+    "password": "Anticheat",
     "type": "offline"
   },
   "server": {
-    "ip": "slobos13.aternos.me",
-    "port": 29195,
+    "ip": "bigd.orc.host",
+    "port": 25565,
     "version": "1.21.1"
   },
   "position": {
